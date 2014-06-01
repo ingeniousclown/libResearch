@@ -1,0 +1,7 @@
+## Title: libResearch
+## Author: ingeniousclown
+## Version: 1.0r2
+## APIVersion: 100004
+
+LibStub\LibStub.lua
+libResearch\libResearch.lua
